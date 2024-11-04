@@ -2,14 +2,13 @@
 
 Information:
 Name: SkyReport
-Developer: SkyScripts Studios | Luca
+Developer: Luca
 Version: 1.0.0
 Minecraft version: 1.20, 1.8, 1,19
 
 Support:
-Support: https://www.skyscripts.net
-Github: https://github.com/qs-Luca/SkyOnlyUp
-Discord: https://discord.gg/qSB86525C
+Support: https://www.luca-info.com
+Github: https://github.com/sky-Luca/SkyOnlyUp
 Latest supportet version: 1.0.0
 
 # []===============================[]
